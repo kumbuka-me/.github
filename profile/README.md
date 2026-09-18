@@ -15,9 +15,9 @@ The project is built around a small core with optional plugins, so installations
 ## Projects
 
 - [**kumbuka**](https://github.com/kumbuka-me/kumbuka) — the main application
-- [**kumbuka-cli**](https://github.com/kumbuka-me/kumbuka-cli) — command-line tools
+- [**cli**](https://github.com/kumbuka-me/cli) — command-line tools
 - [**plugins**](https://github.com/kumbuka-me/plugins) — official Kumbuka plugins
-- [**plugin-sdk**](https://github.com/kumbuka-me/plugin-sdk) — SDK for plugin development
+- [**sdk**](https://github.com/kumbuka-me/sdk) — SDK for plugin development
 - [**docs**](https://github.com/kumbuka-me/docs) — project documentation
 
 ## Principles
