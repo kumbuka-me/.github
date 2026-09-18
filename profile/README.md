@@ -1,0 +1,28 @@
+# Kumbuka
+
+**Kumbuka** is a self-hosted, extensible knowledge platform focused on simplicity, performance, and ownership of your data.
+
+The project is built around a small core with optional plugins, so installations can stay lightweight while still being extended when needed.
+
+## Projects
+
+- [**kumbuka**](https://github.com/kumbuka-me/kumbuka) — the main application
+- [**kumbuka-cli**](https://github.com/kumbuka-me/kumbuka-cli) — command-line tools
+- [**plugins**](https://github.com/kumbuka-me/plugins) — official Kumbuka plugins
+- [**plugin-sdk**](https://github.com/kumbuka-me/plugin-sdk) — SDK for plugin development
+- [**docs**](https://github.com/kumbuka-me/docs) — project documentation
+
+## Principles
+
+- Self-hosted
+- Fast and lightweight
+- Simple deployment
+- Extensible through plugins
+- Open formats
+- Minimal dependencies
+- No unnecessary complexity
+
+## Links
+
+- [Website](https://kumbuka.me)
+- [GitHub Organization](https://github.com/kumbuka-me)
