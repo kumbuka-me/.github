@@ -1,6 +1,14 @@
-# Kumbuka
+<p align="center">
+  <img src="./assets/favicon.svg" width="120" alt="Kumbuka logo">
+</p>
 
-**Kumbuka** is a self-hosted, extensible knowledge platform focused on simplicity, performance, and ownership of your data.
+<h1 align="center">Kumbuka</h1>
+
+<p align="center">
+  A self-hosted, extensible knowledge platform.
+</p>
+
+**Kumbuka** is focused on simplicity, performance, and ownership of your data.
 
 The project is built around a small core with optional plugins, so installations can stay lightweight while still being extended when needed.
 
