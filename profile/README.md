@@ -19,6 +19,8 @@ The project is built around a small core with optional plugins, so installations
 - [**plugins**](https://github.com/kumbuka-me/plugins) — official Kumbuka plugins
 - [**sdk**](https://github.com/kumbuka-me/sdk) — SDK for plugin development
 - [**docs**](https://github.com/kumbuka-me/docs) — project documentation
+- [**mailbride**](https://github.com/kumbuka-me/mailbride) — webhook-to-email notification bridge
+- [**html2pdf**](https://github.com/kumbuka-me/html2pdf) — HTML-to-PDF conversion service
 
 ## Principles
 
@@ -32,5 +34,4 @@ The project is built around a small core with optional plugins, so installations
 
 ## Links
 
-- [Website](https://kumbuka.me)
-- [GitHub Organization](https://github.com/kumbuka-me)
+- [Website](https://kumb
